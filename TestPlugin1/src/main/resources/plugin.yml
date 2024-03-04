@@ -1,0 +1,11 @@
+# 插件名
+name: 'PluginMain'
+# 主类
+main: org.example.PluginMain
+# 版本号
+version: 1.0
+# 作者列表
+authors:
+  - 'meteor'
+# 描述
+description: '这是一个示例插件，展示了怎么编写wechatbc插件'

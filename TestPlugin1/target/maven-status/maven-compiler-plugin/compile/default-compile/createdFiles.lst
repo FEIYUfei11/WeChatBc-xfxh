@@ -1,0 +1,9 @@
+org\example\BigModelNew$Payload.class
+org\example\BigModelNew$Choices.class
+org\example\BigModelNew$MyThread.class
+org\example\BigModelNew$RoleContent.class
+org\example\BigModelNew.class
+org\example\PluginMain.class
+org\example\BigModelNew$Text.class
+org\example\BigModelNew$JsonParse.class
+org\example\BigModelNew$Header.class
